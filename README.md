@@ -7,7 +7,7 @@
 
 Curioso desde pequeno e sempre atraído por desafios lógicos, entrei no curso de matemática pois vi uma oportunidade de exercitar minha criatividade, resolver problemas e aprender sobre um universo totalmente novo. Lá, superei os desafios do curso, estudei assuntos incríveis  e descobri que um teorema escrito em um papel pode mudar o mundo. Também tive experiência em sala de aula, dando aula em cursinhos pré-vestibulares e treinamentos para olimpíadas de matemática.
 
-Ao me formar, decidi cursar o curso de desenvolvimento web full stack da Trybe para seguir na carreira da tecnologia, área que sempre estive próximo, onde me encontrei no back-end. Estudando sobre Javascript, Typescript, Node.js, Express, MySQL, Sequelize, MongoDB, Pyhton, Flask, Django entre outros.
+Ao me formar, decidi cursar o curso de desenvolvimento web full stack da Trybe para seguir na carreira da tecnologia, área que sempre estive próximo, onde me encontrei no back-end. Estudando sobre Javascript, Typescript, Node.js, Express, MySQL, Sequelize, MongoDB, Pyhton, Flask, Django, Docker entre outros.
 
 ### No meu tempo livre gosto de:
 📖 Ler, principalmente ficção, ficção científica, suspense e fantasia.
@@ -32,4 +32,5 @@ Ao me formar, decidi cursar o curso de desenvolvimento web full stack da Trybe p
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img align="center" alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div><br/>
