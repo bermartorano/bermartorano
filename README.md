@@ -12,7 +12,7 @@ Ao me formar, decidi cursar o curso de desenvolvimento web full stack da Trybe p
 ### No meu tempo livre gosto de:
 📖 Ler, principalmente ficção, ficção científica, suspense e fantasia.
 
-🏀 Jogar basquete. Por ironia do destino, com meus incríveis 1,7 metros de altura, esse é meu esporte favorito 😂.
+🏀 Jogar basquete.
 
 🎮 Jogar videogames.
 
