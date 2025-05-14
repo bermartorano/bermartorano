@@ -9,6 +9,8 @@ Curioso desde pequeno e sempre atraído por desafios lógicos, entrei no curso d
 
 Ao me formar, decidi cursar o curso de desenvolvimento web full stack da Trybe para seguir na carreira da tecnologia, área que sempre estive próximo, onde me encontrei no back-end. Estudando sobre Javascript, Typescript, Node.js, Express, MySQL, Sequelize, MongoDB, Pyhton, Flask, Django, Docker entre outros.
 
+No meu trabalho como Analista de Risco na CloudWalk, utilizei análise de dados para investigar, detectar e prevenir fraudes relacionadas a chargebacks, além de desenvolver e manter fluxos de cobrança de clientes devedores. Trabalhei com SQL, BigQuery, Looker e Metabase, automatização de planilhas no Google Sheets, além de interagir com aplicações em Ruby on Rails.
+
 ### No meu tempo livre gosto de:
 📖 Ler, principalmente ficção, ficção científica, suspense e fantasia.
 
